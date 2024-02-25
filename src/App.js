@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          artifacts etst
+          release test through cdk pipeline
         </p>
         <a
           className="App-link"
